@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/communication-video/static/css/main.c56c3163.css",
+    "main.js": "/communication-video/static/js/main.09a85320.js",
+    "static/media/logo.png": "/communication-video/static/media/logo.163f8c89b5793ad08a43.png",
+    "index.html": "/communication-video/index.html",
+    "main.c56c3163.css.map": "/communication-video/static/css/main.c56c3163.css.map",
+    "main.09a85320.js.map": "/communication-video/static/js/main.09a85320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56c3163.css",
+    "static/js/main.09a85320.js"
+  ]
+}
