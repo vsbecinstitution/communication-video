@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/communication-video/static/css/main.53c10c2f.css",
-    "main.js": "/communication-video/static/js/main.42546a25.js",
+    "main.css": "/communication-video/static/css/main.c56c3163.css",
+    "main.js": "/communication-video/static/js/main.29cf4d15.js",
     "static/media/logo.png": "/communication-video/static/media/logo.163f8c89b5793ad08a43.png",
     "index.html": "/communication-video/index.html",
-    "main.53c10c2f.css.map": "/communication-video/static/css/main.53c10c2f.css.map",
-    "main.42546a25.js.map": "/communication-video/static/js/main.42546a25.js.map"
+    "main.c56c3163.css.map": "/communication-video/static/css/main.c56c3163.css.map",
+    "main.29cf4d15.js.map": "/communication-video/static/js/main.29cf4d15.js.map"
   },
   "entrypoints": [
-    "static/css/main.53c10c2f.css",
-    "static/js/main.42546a25.js"
+    "static/css/main.c56c3163.css",
+    "static/js/main.29cf4d15.js"
   ]
 }
