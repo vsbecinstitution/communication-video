@@ -17,7 +17,7 @@ function App() {
     
     <Router>
       <Routes>
-        <Route path="communication-video/" element={<Login />} />
+        <Route path="/communication-video" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path = "/home" element = {<Home/>}/>
         <Route path = "/adminlogin" element = {<AdminLogin/>}/>
