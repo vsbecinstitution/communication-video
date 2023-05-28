@@ -6,7 +6,7 @@ import Login from './Login';
 // import Register from './Register';
 // import AdminLogin from "./Adminlogin"
 // import Admin from "./Admin"
-import { BrowserRouter } from "react-router-dom";
+
 
 
 function App() {
@@ -14,12 +14,12 @@ function App() {
 
   return (
     
-    <BrowserRouter>
+    <Router>
       <Routes>
         <Route path="/" element={<Login />} />
         
       </Routes>
-    </BrowserRouter>
+    </Router>
   );
 }
 
